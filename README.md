@@ -3,12 +3,11 @@
 
 Experienced Full-stack Developer passionate about building complex, scalable services and cutting-edge AI-augmented solutions. I specialize in C#.NET, modern JavaScript/TypeScript ecosystems, and crafting intelligent Agentic Workflows.
 
-
 ## ⚡ Quick About Me
 
+- 🚀 **About Me:** An ambitious Full-stack Developer dedicated to conquering large-scale systems with a proven ability to adapt rapidly to emerging technologies. Currently deep-diving into engineering **AI Agent Harnesses** and optimizing intelligent **Agentic Workflows**.
 - 🏅 **Microsoft MVP** in Developer Technologies.
 - 🤖 **Current Focus:** Building AI Agent Harnesses and advanced Agentic Workflows.
-
 
 ## 🛠️ Tech Stack & Skills
 
