@@ -3,14 +3,12 @@
 
 Experienced Full-stack Developer passionate about building complex, scalable services and cutting-edge AI-augmented solutions. I specialize in C#.NET, modern JavaScript/TypeScript ecosystems, and crafting intelligent Agentic Workflows.
 
----
 
 ## ⚡ Quick About Me
 
 - 🏅 **Microsoft MVP** in Developer Technologies.
 - 🤖 **Current Focus:** Building AI Agent Harnesses and advanced Agentic Workflows.
 
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -43,7 +41,6 @@ Experienced Full-stack Developer passionate about building complex, scalable ser
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
----
 
 ## 📈 GitHub Stats
 
@@ -51,7 +48,6 @@ Experienced Full-stack Developer passionate about building complex, scalable ser
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=billyvu9322&theme=glass-morphism-light&hide_border=true" alt="GitHub Streak" height="180px" />
 </p>
 
----
 
 ## 🤝 Connect with Me
 
