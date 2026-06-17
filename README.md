@@ -9,10 +9,6 @@ Experienced Full-stack Developer passionate about building complex, scalable ser
 
 - 🏅 **Microsoft MVP** in Developer Technologies.
 - 🤖 **Current Focus:** Building AI Agent Harnesses and advanced Agentic Workflows.
-- 🌍 **Based in:** Hanoi Capital Region, Vietnam.
-- 💼 **Current Roles:** - Software Engineer at **Add-On Development**
-  - Freelance Web Developer at **iCommerce**
-- 🎓 **Education:** Graduate of **University of Transport and Communications** (BTech in IT).
 
 ---
 
